@@ -2,8 +2,8 @@
 // @name         Narrow.One aim crosshair
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  nothing
-// @author       deine mutter
+// @description  Click "P" to change crosshair, avaiable crosshairs in this script is dot, x and +
+// @author       EF Aspect
 // @match        *://narrow.one/*
 // @grant        none
 // ==/UserScript==
