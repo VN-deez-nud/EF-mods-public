@@ -4,7 +4,7 @@
 // @version      2.2
 // @description  Adds an in-game favorite songs music player panel. To use it first download the song you like in an online mp3 converter
 // @description  To use it first download the song you like in an online mp3 converter
-// @description  Then use https://catbox.moe/ to convert it into a file with .mp3, after paste it into the links below
+// @description  Then use https://catbox.moe/ to convert it into a file with .mp3, after paste it into the links below. Click "0" to activate panel
 // @author       Aspect
 // @match        https://narrow.one/*
 // @grant        none
